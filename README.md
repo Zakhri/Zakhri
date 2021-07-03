@@ -4,7 +4,7 @@
 
 
 
-[![Flutter](https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail)](hurinovich.zakhar@gmail.com)
+[![Flutter](https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail)](https://mail.google.com/hurinovich.zakhar@gmail.com)
 [![Flutter](https://img.shields.io/badge/linkedin-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=018bc9)]()
 
 
