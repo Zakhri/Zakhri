@@ -1,6 +1,6 @@
 
 
-# Zakhar Hurinovich ![Flutter](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=028ecb)
+# Zakhar Hurinovich [![Flutter](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=028ecb)](https://www.linkedin.com/in/zakhar-hurinovich/)
 
 **About me:**
 * :computer: _Mainly focused on Backend_
