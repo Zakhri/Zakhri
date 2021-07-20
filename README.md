@@ -1,10 +1,11 @@
 
 
-# Zakhar Hurinovich [![Flutter](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=028ecb)](https://www.linkedin.com/in/zakhar-hurinovich/)
+# Zakhar Hurinovich [![Flutter](https://img.shields.io/badge/Linkedin-FFA500?style=social&logo=linkedin)](https://www.linkedin.com/in/zakhar-hurinovich/)
 
 **About me:**
 * :computer: _Mainly focused on Backend_
 * :diamonds: _Interested in server architecture and UI/UX design_
+
 
 **Core stack**:
 
